@@ -1,0 +1,12 @@
+.move-container {
+	height: 300px;
+}
+
+.random-move {
+	display: none;
+	position: relative;
+	font-size: 20rem;
+	text-align: center;
+	width: 100% !important;
+	height: 100% !important;
+}
